@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:0,11. LRT Televizija
+udp://@239.2.3.11
+#EXTINF:0,12. TV3
+udp://@239.2.3.12
+#EXTINF:0,13. LNK
+udp://@239.2.3.13
+#EXTINF:0,14. LRT Kultudp://@239.2.3.14
+#EXTINF:0,15. BTV
+udp://@239.2.3.15
+#EXTINF:0,16. TV1
+udp://@239.2.3.16
+#EXTINF:0,17. TV6
+udp://@239.2.3.17
