@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:0,11. LRT Televizija
+udp://@239.2.3.11
+#EXTINF:0,55. LRT HD
+udp://@239.2.3.55
+#EXTINF:0,12. TV3
+udp://@239.2.3.12
+#EXTINF:0,13. LNK
+udp://@239.2.3.13
+#EXTINF:0,15. BTV
+udp://@239.2.3.15
+#EXTINF:0,165. Balticum
+udp://@239.2.3.165
+#EXTINF:0,56. Balticum Auksinis
+udp://@239.2.3.56
+#EXTINF:0,16. TV1
+udp://@239.2.3.16
+#EXTINF:0,17. TV6
+udp://@239.2.3.17
+#EXTINF:0,43. Lietuvos ryto TV
+udp://@239.2.3.43
+#EXTINF:0,33. TV8
+udp://@239.2.3.33
+#EXTINF:0,26. SONY ENTERTAINMENT TELEVISION
+udp://@239.2.3.26
+#EXTINF:0,98. INFO TV
+udp://@239.2.3.98
+#EXTINF:0,32. LRT Lituanica
+udp://@239.2.3.32
+#EXTINF:0,97. LIUKS!
+udp://@239.2.3.97
+#EXTINF:0,162. udp://@239.2.3.162
+#EXTINF:0,163. Dzudp://@239.2.3.163
+#EXTINF:0,164. Marijampoludp://@239.2.3.164
+#EXTINF:0,166. Seimas
+udp://@239.2.3.166
+#EXTINF:0,167. TV7
+udp://@239.2.3.167
+#EXTINF:0,136. DZ+
+udp://@239.2.3.136
+#EXTINF:0,39. BBC WORLD NEWS
+udp://@239.2.3.39
+#EXTINF:0,18. Euronews
+udp://@239.2.3.18
+#EXTINF:0,81. SKY NEWS
+udp://@239.2.3.81
+#EXTINF:0,58. CNBC
+udp://@239.2.3.58
+#EXTINF:0,63. BLOOMBERG
+udp://@239.2.3.63
+#EXTINF:0,44. NO SIGNAL
+udp://@239.2.3.44
+#EXTINF:0,140.
+udp://@239.2.3.140
+#EXTINF:0,41. SONY TURBO
+udp://@239.2.3.41
+#EXTINF:0,95. FOX
+udp://@239.2.3.95
+#EXTINF:0,106. FOX Life
+udp://@239.2.3.106
+#EXTINF:0,119. SPORT 1
+udp://@239.2.3.119
+#EXTINF:0,88. SPORT 1 HD
+udp://@239.2.3.88
+#EXTINF:0,173. SETANA SPORTS
+udp://@239.2.3.173
+#EXTINF:0,19. Eurosport
+udp://@239.2.3.19
+#EXTINF:0,61. Eurosport HD
+udp://@239.2.3.61
+#EXTINF:0,20. Eurosport 2
+udp://@239.2.3.20
+#EXTINF:0,94. iConcerts HD
+udp://@239.2.3.94
+#EXTINF:0,50. udp://@239.2.3.50
+#EXTINF:0,72. RUSSIAN EXTREME HD
+udp://@239.2.3.72
+#EXTINF:0,82. udp://@239.2.3.82
+#EXTINF:0,75. udp://@239.2.3.75
+#EXTINF:0,21. Discovery Channel
+udp://@239.2.3.21
+#EXTINF:0,68. Discovery Science
+udp://@239.2.3.68
+#EXTINF:0,69. Discovery WORLD
+udp://@239.2.3.69
+#EXTINF:0,93. Discovery SHOWCASE HD
+udp://@239.2.3.93
+#EXTINF:0,22. Animal Planet
+udp://@239.2.3.22
+#EXTINF:0,23. NATIONAL GEOGRAPHIC CHANNEL
+udp://@239.2.3.23
+#EXTINF:0,74. NATIONAL GEOGRAPHIC CHANNEL HD
+udp://@239.2.3.74
+#EXTINF:0,29. Travel Channel
+udp://@239.2.3.29
+#EXTINF:0,59. MOTORS TV
+udp://@239.2.3.59
+#EXTINF:0,62. DW
+udp://@239.2.3.62
+#EXTINF:0,169. udp://@239.2.3.169
+#EXTINF:0,60. HISTORY
+udp://@239.2.3.60
+#EXTINF:0,85. HISTORY HD
+udp://@239.2.3.85
+#EXTINF:0,25. udp://@239.2.3.25
+#EXTINF:0,34. VH1
+udp://@239.2.3.34
+#EXTINF:0,96. TELE 5
+udp://@239.2.3.96
+#EXTINF:0,90. MTV HITS
+udp://@239.2.3.90
+#EXTINF:0,67. FASHION
+udp://@239.2.3.67
+#EXTINF:0,51. iConcerts
+udp://@239.2.3.51
+#EXTINF:0,52. udp://@239.2.3.52
+#EXTINF:0,24. udp://@239.2.3.24
+#EXTINF:0,27. REN Lietuva
+udp://@239.2.3.27
+#EXTINF:0,70. udp://@239.2.3.70
+#EXTINF:0,71. udp://@239.2.3.71
+#EXTINF:0,73. udp://@239.2.3.73
+#EXTINF:0,28. RTVi
+udp://@239.2.3.28
+#EXTINF:0,47. udp://@239.2.3.47
+#EXTINF:0,78. RU MUSIC
+udp://@239.2.3.78
+#EXTINF:0,76. NBA
+udp://@239.2.3.76
+#EXTINF:0,80. udp://@239.2.3.80
+#EXTINF:0,65. Extreme Sports
+udp://@239.2.3.65
+#EXTINF:0,38. CARTOON NETWORK
+udp://@239.2.3.38
+#EXTINF:0,42. BOOMERANG
+udp://@239.2.3.42
+#EXTINF:0,46. NICKELODEON
+udp://@239.2.3.46
+#EXTINF:0,101. NO SIGNAL
+udp://@239.2.3.101
+#EXTINF:0,49. Baby TV
+udp://@239.2.3.49
+#EXTINF:0,64. DISNEY Channel
+udp://@239.2.3.64
+#EXTINF:0,91. DISNEY XD
+udp://@239.2.3.91
+#EXTINF:0,92. DISNEY JUNIOR
+udp://@239.2.3.92
+#EXTINF:0,103. NO SIGNAL
+udp://@239.2.3.103
+#EXTINF:0,100. udp://@239.2.3.100
+#EXTINF:0,66. KidZone TV
+udp://@239.2.3.66
+#EXTINF:0,54. TLC
+udp://@239.2.3.54
+#EXTINF:0,48. TVP Polonia
+udp://@239.2.3.48
+#EXTINF:0,77. LUXE TV
+udp://@239.2.3.77
+#EXTINF:0,79. PLAYBOY
+udp://@239.2.3.79
