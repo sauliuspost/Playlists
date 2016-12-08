@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0,Auksinis_Balticum
+udp://@239.2.3.56:1234
+#EXTINF:0,Balticum
+udp://@239.2.3.165:1234
+#EXTINF:0,Lietuvos rytas TV
+udp://@239.2.3.43:1234
+#EXTINF:0,LRT HD
+udp://@239.2.3.55:1234
+#EXTINF:0,MTV Hits
+udp://@239.2.3.90:1234
+#EXTINF:0,National Geographic
+udp://@239.2.3.23:1234
+#EXTINF:0,SPORT
+udp://@239.2.3.99:1234
